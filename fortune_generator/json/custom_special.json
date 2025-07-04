@@ -1,6 +1,27 @@
 {
   "special_events": [
     {
+      "event": "惡臭日",
+      "triggerDate": {
+        "year": "2025",
+        "month": "5",
+        "date": "14"
+      },
+      "status_index": "0",
+      "goodFortunes": {
+        "l_1_event": "追劇",
+        "l_1_desc": "享受仲夏夜之淫夢",
+        "l_2_event": "吃大餐",
+        "l_2_desc": "造訪會員制餐廳"
+      },
+      "badFortunes": {
+        "r_1_event": "",
+        "r_1_desc": "",
+        "r_2_event": "",
+        "r_2_desc": ""
+      }
+    },
+    {
       "event": "夏至",
       "triggerDate": {
         "year": "2025",
@@ -19,6 +40,27 @@
         "r_1_desc": "",
         "r_2_event": "",
         "r_2_desc": ""
+      }
+    },
+    {
+      "event": "是芥末日",
+      "triggerDate": {
+        "year": "2025",
+        "month": "7",
+        "date": "5"
+      },
+      "status_index": "0",
+      "goodFortunes": {
+        "l_1_event": "",
+        "l_1_desc": "",
+        "l_2_event": "",
+        "l_2_desc": ""
+      },
+      "badFortunes": {
+        "r_1_event": "逃跑",
+        "r_1_desc": "逃向遠方",
+        "r_2_event": "道別",
+        "r_2_desc": "再見了這個世界"
       }
     },
     {
